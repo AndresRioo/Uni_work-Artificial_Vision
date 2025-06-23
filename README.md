@@ -5,10 +5,10 @@ The labs cover a wide range of topics, including image loading, manipulation, an
 Methods such as Gaussian filters, template matching, and feature extraction (ORB, HOG), along with face detection using Haar-like features and PCA. These practicum exercises were designed to provide hands-on experience in fundamental image processing, 
 filtering, and object recognition.
 
-==============================================================================================
+===========================================================================
 
 ## Practicum 1: Basics on Image Processing and Manipulation
-==============================================================================================
+===========================================================================
 
 The main topics are:
 
@@ -21,10 +21,10 @@ In order to complete this practicum, we will work with the following concepts: i
 
 
 
-==============================================================================================
+===========================================================================
 ## Practicum 2: Filtering and edge detection
 
-==============================================================================================
+===========================================================================
 
 The main topics are:
 1. Image smoothing and convolution (exercises 2.1, 2.2, 2.3 and 2.4)
@@ -37,10 +37,10 @@ The following chapters of the book "Computer Vision: Algorithms and Applications
 * Chapter 4. Feature detection and matching: Edges.
 
 
-==============================================================================================
+===========================================================================
 ## Practicum 3: Image and Video Segmentation
 
-==============================================================================================
+===========================================================================
 
 The main topics of Laboratory 3 are:
 
@@ -58,10 +58,10 @@ The following chapters of the book “Computer Vision: Algorithms and Applicaton
 
 
 
-==============================================================================================
+===========================================================================
 ## Practicum 4: Descriptors extraction for object detection, based on template matching, ORB, and HOG
 
-==============================================================================================
+===========================================================================
 
 The main topics of Laboratory 4 are:
 
@@ -74,10 +74,10 @@ The main topics of Laboratory 4 are:
 In order to complete this practicum, the following concepts need to be understood: template matching, feature localization (Harris, Censure), feature descriptor (HOG,ORB, Sift) methods.
 
     
-==============================================================================================
+===========================================================================
 ## Practicum 5: 
 
-==============================================================================================
+===========================================================================
 
 This lab covers the following topics: 
 
